@@ -1,0 +1,1 @@
+No Git worktree detected at /root/SSTCN_code/gloss_translator_final

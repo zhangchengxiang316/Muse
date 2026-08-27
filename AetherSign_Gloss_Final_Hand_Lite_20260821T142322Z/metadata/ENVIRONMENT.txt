@@ -1,0 +1,7 @@
+python=3.10.8 (main, Nov 24 2022, 14:13:03) [GCC 11.2.0]
+platform=Linux-5.15.0-78-generic-x86_64-with-glibc2.35
+torch=2.1.2+cu121
+numpy=1.26.3
+pandas=2.3.3
+onnx=1.17.0
+onnxruntime=1.23.2

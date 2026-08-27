@@ -1,0 +1,21 @@
+Model: gloss_hand_expA.onnx
+  size_bytes: 901890
+  ir_version: 7
+  opsets: [{'domain': '', 'version': 12}]
+  inputs: [{'name': 'input', 'shape': [1, 4, 54, 64], 'elem_type': 1}]
+  outputs: [{'name': 'output', 'shape': [1, 6, 1, 1], 'elem_type': 1}]
+  node_count: 44
+  operator_counts: {'Add': 5, 'Conv': 18, 'GlobalAveragePool': 1, 'MaxPool': 3, 'Relu': 17}
+  initializer_element_count: 222918
+  checker: PASS
+
+Model: gloss_lite_expB.onnx
+  size_bytes: 901890
+  ir_version: 7
+  opsets: [{'domain': '', 'version': 12}]
+  inputs: [{'name': 'input', 'shape': [1, 4, 54, 64], 'elem_type': 1}]
+  outputs: [{'name': 'output', 'shape': [1, 6, 1, 1], 'elem_type': 1}]
+  node_count: 44
+  operator_counts: {'Add': 5, 'Conv': 18, 'GlobalAveragePool': 1, 'MaxPool': 3, 'Relu': 17}
+  initializer_element_count: 222918
+  checker: PASS

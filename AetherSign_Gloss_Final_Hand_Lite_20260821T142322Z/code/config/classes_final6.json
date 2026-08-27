@@ -1,0 +1,52 @@
+{
+  "classes": [
+    {
+      "id": 486,
+      "label": 0,
+      "english": "rain",
+      "chinese": "雨",
+      "folder": "486_rain",
+      "zip": "486_rain.zip"
+    },
+    {
+      "id": 113,
+      "label": 1,
+      "english": "long",
+      "chinese": "长",
+      "folder": "113_long",
+      "zip": "113_long.zip"
+    },
+    {
+      "id": 114,
+      "label": 2,
+      "english": "short",
+      "chinese": "短",
+      "folder": "114_short",
+      "zip": "114_short.zip"
+    },
+    {
+      "id": 101,
+      "label": 3,
+      "english": "go",
+      "chinese": "去",
+      "folder": "101_go",
+      "zip": "101_go.zip"
+    },
+    {
+      "id": 121,
+      "label": 4,
+      "english": "thick",
+      "chinese": "厚",
+      "folder": "121_thick",
+      "zip": "121_thick.zip"
+    },
+    {
+      "id": 999,
+      "label": 5,
+      "english": "no_gesture",
+      "chinese": "无手势",
+      "folder": "999_no_gesture",
+      "zip": "999_no_gesture.zip"
+    }
+  ]
+}
